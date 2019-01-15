@@ -1,1 +1,2 @@
 water is life. this is a text editor document to demonstrate version control. 
+gonna write another line to practice
